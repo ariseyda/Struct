@@ -16,7 +16,7 @@ int main(){
 	struct Tree tree1={"Apple",300,3,"September"};
 	printf("%s tree: They can live %d year.\nThey can be %dm.\nThey grow in %s.\n",tree1.name,tree1.age,tree1.lenght,tree1.season);
 	
-	/*Apple tree: They can live 300 year.
+    /*Apple tree: They can live 300 year.
     They can be 3m.
     They grow in September.*/
     
