@@ -21,7 +21,7 @@ int main(){
     They grow in September.*/
     
     strcpy(tree2.name,"Olive");
-    //We cannot synchronize char arrayine string directly in c programming.We have to use "strcpy" function.
+    //We have to use "strcpy" function.
     //tree2.name="Olive";(We can't do this.)
     printf("%s:\n",tree2.name);
     printf("Enter age of tree:");
